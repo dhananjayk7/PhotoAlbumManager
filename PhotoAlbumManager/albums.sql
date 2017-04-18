@@ -1,0 +1,1 @@
+Select album_id from photos;

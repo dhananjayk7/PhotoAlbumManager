@@ -1,1 +1,1 @@
-Select album_id from photos;
+Select album_id from PHOTOS;
